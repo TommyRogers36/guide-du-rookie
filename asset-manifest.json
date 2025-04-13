@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/guide-du-rookie/static/css/main.c35d6a62.css",
+    "main.css": "/guide-du-rookie/static/css/main.a000b2d6.css",
     "main.js": "/guide-du-rookie/static/js/main.f6fbd33c.js",
     "static/js/453.920d4b45.chunk.js": "/guide-du-rookie/static/js/453.920d4b45.chunk.js",
     "static/media/MCD.png": "/guide-du-rookie/static/media/MCD.27034c08952c191888a3.png",
@@ -14,12 +14,12 @@
     "static/media/RA.png": "/guide-du-rookie/static/media/RA.69554d755b492b8510db.png",
     "static/media/DOA.png": "/guide-du-rookie/static/media/DOA.bd248df93e598d5496ab.png",
     "index.html": "/guide-du-rookie/index.html",
-    "main.c35d6a62.css.map": "/guide-du-rookie/static/css/main.c35d6a62.css.map",
+    "main.a000b2d6.css.map": "/guide-du-rookie/static/css/main.a000b2d6.css.map",
     "main.f6fbd33c.js.map": "/guide-du-rookie/static/js/main.f6fbd33c.js.map",
     "453.920d4b45.chunk.js.map": "/guide-du-rookie/static/js/453.920d4b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c35d6a62.css",
+    "static/css/main.a000b2d6.css",
     "static/js/main.f6fbd33c.js"
   ]
 }
