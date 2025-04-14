@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guide-du-rookie/static/css/main.a000b2d6.css",
-    "main.js": "/guide-du-rookie/static/js/main.f6fbd33c.js",
+    "main.js": "/guide-du-rookie/static/js/main.33f9154f.js",
     "static/js/453.920d4b45.chunk.js": "/guide-du-rookie/static/js/453.920d4b45.chunk.js",
     "static/media/MCD.png": "/guide-du-rookie/static/media/MCD.27034c08952c191888a3.png",
     "static/media/logo-crime-flashback5.png": "/guide-du-rookie/static/media/logo-crime-flashback5.78f46ff583d0da5dc4de.png",
@@ -15,11 +15,11 @@
     "static/media/DOA.png": "/guide-du-rookie/static/media/DOA.bd248df93e598d5496ab.png",
     "index.html": "/guide-du-rookie/index.html",
     "main.a000b2d6.css.map": "/guide-du-rookie/static/css/main.a000b2d6.css.map",
-    "main.f6fbd33c.js.map": "/guide-du-rookie/static/js/main.f6fbd33c.js.map",
+    "main.33f9154f.js.map": "/guide-du-rookie/static/js/main.33f9154f.js.map",
     "453.920d4b45.chunk.js.map": "/guide-du-rookie/static/js/453.920d4b45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a000b2d6.css",
-    "static/js/main.f6fbd33c.js"
+    "static/js/main.33f9154f.js"
   ]
 }
